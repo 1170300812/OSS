@@ -10,3 +10,5 @@ fn main(){
     say(out, width, &mut writer).unwrap();
 }
 Hello World!
+
+Hello World!
